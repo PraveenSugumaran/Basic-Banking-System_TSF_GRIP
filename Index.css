@@ -1,0 +1,130 @@
+.container-fluid {
+    padding: 7% 15% 0;
+  }
+  
+  .body {
+    text-align: center;
+    font-family: "Times New Roman";
+  }
+  
+  /* TitleSection */
+  .big-heading {
+    font-size: 2.5rem;
+    text-align: center;
+    line-height: 1.5;
+    font-family: "Montserrat-Bold";
+  }
+
+  
+  #title {
+    background-color : rgba(34, 8, 182, 0.993);
+    background-size: cover;
+    background-attachment: fixed;
+    
+      /*background-color: #07e4d2;*/
+  }
+  
+  
+    
+   
+  
+  #title .container-fluid {
+    padding: 3% 15% 7%;
+  }
+  
+  
+  /* navigationsection */
+  .navbar-heading {
+    font-size: 1.8rem;
+    font-family: "Times New Roman";
+    padding: 0 0;
+  }
+  
+  .navbar {
+    padding: 0 0 5rem;
+  }
+  
+  .nav-item {
+    color: #fff;
+    padding: 0 18px;
+  }
+  
+  .description {
+    font-size: 2.8rem;
+    font-family: "Times New Roman";
+    text-align: center;
+    padding-bottom: 7%;
+  }
+  
+  .m-img {
+    right: 30%;
+  }
+  
+  /* testimonialsection */
+  #testimonials {
+    text-align: center;
+    z-index: 1;
+    background-color: rgb(146, 25, 25);
+  }
+  
+  .testimonial-text {
+    font-size: 2.5rem;
+    padding-bottom: 7%;
+    line-height: 1.5;
+  }
+  
+  .carousel-item {
+    padding: 7% 15%;
+  }
+  
+  .testimonial-image {
+    width: 40%;
+    border-radius: 100%;
+    
+  }
+  
+  #press {
+    padding: 100px ; color : rgb(255, 255, 255);
+    text-align: center;
+    padding-bottom: 7%;
+  }
+  
+  
+  
+  
+  .cus{
+    background: rgb(106, 103, 252);
+  }
+  .cus_table {
+    background: rgb(174, 3, 226);
+    overflow: hidden;
+  }
+  .social-icon {
+    margin: 20px 10px;
+  }
+  
+  /* Customer-service */
+  /*feature-box section*/
+  #features {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    text-align: center;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+  }
+  
+  .feature-box {
+    padding: 5%;
+  }
+  
+  .icon {
+    color: blue;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover {
+    color: rgb(7, 247, 19);
+  }
